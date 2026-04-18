@@ -1,0 +1,6 @@
+{
+  "name": "Crop FL Dashboard",
+  "description": "A comprehensive dashboard for monitoring Federated Learning performance and managing crop image datasets (Wheat, Rice, Corn).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
